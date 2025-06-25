@@ -16,7 +16,7 @@ Grandes telas: acima de 1200px
         background-image: linear-gradient(to top, #002D03, #0C6629);
     }
     section#login {
-        width: 80vw;
+        width: 90vw;
     }
     section#login > div#imagem {
         float: left;
